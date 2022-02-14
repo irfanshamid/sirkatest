@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/service": "pages/api/service.js",
+  "/component/card": "pages/component/card.html",
+  "/component/footer": "pages/component/footer.html",
+  "/component/header": "pages/component/header.html",
+  "/component/layout": "pages/component/layout.html",
+  "/component/panel": "pages/component/panel.html",
+  "/component/skeleton": "pages/component/skeleton.html",
+  "/": "pages/index.html",
+  "/user/[detail]": "pages/user/[detail].html",
+  "/user/form": "pages/user/form.html",
+  "/user": "pages/user.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
